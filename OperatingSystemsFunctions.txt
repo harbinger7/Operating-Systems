@@ -2,4 +2,4 @@ One of the functions of an operating system is memory management. When a program
 
 Another operating system function is device management. This is needed to control all the devices connected to a computer system. The device management operating system function would be responsible for devices like keyboard, mouse, and the printer. It also controls any new additions like a USB drive connecting to a part on the computer.
 
-Another operating systerm function is process management.
+Another operating systerm function is process management. This operating system fuction is responsible for the processing time for the different processes on a computer. A process management function uses the central processing unit in order to fulfill its jobs. It also decides the order processes are completed by prioritizing the most important or recent process.
